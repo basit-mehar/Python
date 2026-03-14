@@ -1,0 +1,12 @@
+a = input ("Write a :")
+b = int(input ("Write b :"))
+c = float(input ("Write c :"))
+d = bool(input ("Write d :"))
+e = eval(input ("Write e :"))
+
+print( a, b, c, d, e)
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
